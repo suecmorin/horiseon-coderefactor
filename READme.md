@@ -5,7 +5,7 @@ This project updated the website created in 2019. Update was completed by in Jul
 Client asked for code to be updated to ensure title is consise and descriptive, code is maximized for readability and efficiency, and photos have alternate attributes.
 
 ##Screenshot
-
+Screenshot of deployed website is Issue 1 of this repository.
 
 
 ##Features
